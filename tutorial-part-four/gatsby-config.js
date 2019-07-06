@@ -6,6 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: `Gluttonous Pandas`
+  },
   plugins: [
     `gatsby-plugin-emotion`,
     {
